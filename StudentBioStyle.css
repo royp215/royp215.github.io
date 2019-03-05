@@ -1,0 +1,47 @@
+body {
+    background-color: #efeee7;
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+h1 {
+    text-align: center;
+    color: #efeee7;
+    background-color: grey;
+    margin: 0px;
+    padding: 20px;
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+a {
+    color: red;
+}
+
+.container {
+    width: 1080px;
+    margin: 0px auto;
+} 
+
+#profile,
+#info1,
+#info2 {
+    float: left;
+}
+
+#info1 {
+    width: 70%;
+}
+
+#info2 {
+    width; 30%;
+}
+
+#profile{
+    margin-right: 30px;
+}
